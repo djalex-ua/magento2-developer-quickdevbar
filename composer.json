@@ -1,5 +1,5 @@
 {
-    "name": "vpietri/adm-quickdevbar",
+    "name": "custom-vpietri/adm-quickdevbar",
     "description": "QuickDevBar is a developer toolbar for magento 2",
     "type": "magento2-module",
     "license": [
